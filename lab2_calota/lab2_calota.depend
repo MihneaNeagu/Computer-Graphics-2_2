@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678899112 source:c:\an 2 sem 2\grafica pe calculator\lab2\lab2_calota\main.c
+	<GLFW/glfw3.h>
+	<GL/glut.h>
+	<unistd.h>
+	<math.h>
+	<stdbool.h>
+
